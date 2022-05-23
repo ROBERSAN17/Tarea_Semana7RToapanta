@@ -43,7 +43,7 @@ namespace Sema7RToapanta
                 }
                 else
                 {
-                    DisplayAlert("Alerta", "Usuario", "Cerrar");
+                    DisplayAlert("Alerta", "Usuario Incorrecto", "Cerrar");
                 }
             }
             catch (Exception ex)
